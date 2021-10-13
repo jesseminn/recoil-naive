@@ -1,1 +1,1 @@
-export {} from './src/recoil-naive';
+export * from './src/recoil-naive';
